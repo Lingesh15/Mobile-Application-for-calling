@@ -1,6 +1,6 @@
-# Aavarampatti Essentials App
+# Onecaller-Essentials App
 
-The **Aavarampatti Essentials App** is a Flutter-based mobile application designed to cater to the residents of Aavarampatti, a village in Trichy, Tamil Nadu. This app provides an easy and accessible way for villagers to find and contact essential services using mobile numbers, all displayed in Tamil for user convenience.
+The **Onecaller-Essentials App** is a Flutter-based mobile application designed to cater to the residents of Aavarampatti, a village in Trichy, Tamil Nadu. This app provides an easy and accessible way for villagers to find and contact essential services using mobile numbers, all displayed in Tamil for user convenience.
 
 ## Key Features
 
